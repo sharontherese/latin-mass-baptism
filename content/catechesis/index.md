@@ -21,8 +21,6 @@ There is an abundance of information on the Sacrament of Baptism. This page will
 
 Pamphlets on Baptism from Lux Occulta. International Catholic Truth Society. https://lxoa.wordpress.com/category/baptism/.
 
-"The Sacrament of Baptism." In Catechism of the Council of Trent, 1615?
-
 "The Seven Sacraments and Their Liturgies, Part 2: Baptism," Holy Mass and More, August 5, 2018, https://www.holymassandmore.org/2018/08/the-seven-sacraments-and-their_5.html.
 
 Carota, Father, "Latin Baptism Vs. New Rite of Baptism," Traditional Catholic Priest, July 18, 2013, http://www.traditionalcatholicpriest.com/2013/07/18/latin-baptism-vs-new-rite-of-baptism/.
