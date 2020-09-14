@@ -13,7 +13,7 @@ _Artwork: Gozzoli, Benozzo. "Baptism of St Augustine." 1464-65._
 
 Below are classic Biblical commentaries on some of the Scriptural parts of the Rite of Baptism. 
 
-The commentariy I pull from is Haydock [^1].
+The commentary I pull from is Haydock [^1].
 
 For more commentaries, visit St. Thomas Aquinas' Catena Aurea [^2], Sermonry [^3] and Psallam Domino [^4].
 
