@@ -47,18 +47,24 @@ Like many things in the Catholic faith, the Rite of Burial for Children seems, a
 
 Further commentary and description of the rite are available at New Liturgical Movement.[^9]
 
-I have formatted a Latin-English version of the rite below:
+The Rite of Burial for Children is available at:
 
-* {{% staticref "files/Rite_of_Burial_for_Children_LatinEnglish.pdf" %}}Rite of Burial for Children: Latin-English PDF{{% /staticref %}}
+* {{% staticref "files/Rite_of_Burial_for_Children_LatinEnglish.pdf" %}}My own version as a PDF here{{% /staticref %}}
+* At [Latin Mass Funeral](https://latinmassfuneral.com/rite-of-burial-for-children)
 
 # 3. Votive Mass of the Holy Angels 
 
 It has been a common practice to say the votive Mass of the Holy Angels for the loss of a child. The Mass is available in a variety of formatting online.
 
+* At [Latin Mass Funeral](https://latinmassfuneral.com/votive-mass-holy-angels)
 * [As a webpage here](/votive-mass-holy-angels/)
 * {{% staticref "files/Mass_of_the_Holy_Angels_LatinEnglish.pdf" %}}My own version as a PDF here{{% /staticref %}}
 * Usus Antiquior[^10]
 * Vultus Christi[^11]
+
+# More reading 
+
+St. Gregory of Nyssa. On Infants' Early Deaths. https://www.newadvent.org/fathers/2912.htm.
 
 # Sources
 
@@ -83,7 +89,3 @@ It has been a common practice to say the votive Mass of the Holy Angels for the 
 [^10]: "Certain Votive Masses." Usus Antiquior, https://propria.org/votive-masses/.
 
 [^11]: "Votive Mass of the Holy Angels." Vultus Christi, Updated January 18, 2011, https://vultuschristi.org/index.php/2011/01/votive-mass-of-the-holy-angels/.
-
-
-
-
