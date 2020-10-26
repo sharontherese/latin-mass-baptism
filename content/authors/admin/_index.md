@@ -22,4 +22,4 @@ email: ''
 
 \- Catechism of the Catholic Church, no. 1284
 
-A sister site to [Latin Mass Wedding](https://www.latinmasswedding.com/).
+A sister site to [Latin Mass Wedding](https://www.latinmasswedding.com/) and [Latin Mass Funeral](https://www.latinmassfuneral.com/).
