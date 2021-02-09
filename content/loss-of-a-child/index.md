@@ -14,7 +14,9 @@ _Artwork: Leighton, Edmund Blair. "To the Unknown Land." 1911._
 This page contains resources for Catholics facing the loss of a child. The page is in three parts: 
 
 1\. Care for the remains of the child
+
 2\. Rite of Burial for Children
+
 3\. Votive Mass of the Holy Angels
 
 Catholic Miscarriage Support[^1] has many resources on these and similar topics as well.
@@ -25,7 +27,7 @@ Catholic Miscarriage Support[^1] has many resources on these and similar topics 
 
 > In danger of death non-solemn baptism can be administered by anyone as long as he uses the proper form and matter and has the right intention. If possible two witnesses or at least one should be present so that the baptism can be proved...It should be a pastor's concern that the faithful, particularly midwives, doctors, and surgeons be thoroughly instructed in the correct manner of baptizing in a case of necessity.[^3]
 
-Many medical facilities are required to inform parents of their rights regarding the remains of their children. The exact laws many vary by state; Minnesota law, for example, says: 
+Many medical facilities are required to inform parents of their rights regarding the remains of their children. The exact laws may vary by state; Minnesota law, for example, says: 
 
 > Hospitals, clinics, and medical facilities must have in place by January 15, 2009, policy for informing a woman of available options for fetal disposition when the woman experiences a miscarriage or is expected to experience a miscarriage.[^4]
 
