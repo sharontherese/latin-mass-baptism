@@ -3,9 +3,11 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-theme = "white"
+[appearance]
+theme_day = "ocean"
+theme_night = "ocean"
 # Enable users to switch between day and night mode?
-day_night = false
+# day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
@@ -87,8 +89,8 @@ contact_links = [
   zoom = 15
 map = 0
 map_api_key = ""
-# coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
+# coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 ############################
 ## Advanced options       ##
 ############################
