@@ -16,7 +16,7 @@ baseurl = "https://www.latinmassbaptism.com/"
 copyright = "&copy; {year} Sharon Kabel"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-144733098-3"
+# googleAnalytics = "UA-144733098-3"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -76,6 +76,26 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   author = "authors"
 
 # Modules.
-[module]
-  [[module.imports]]
-    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
+# [module]
+#   [[module.imports]]
+#     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
+[[module.imports]]
+path = "github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms"
+
+[[module.imports]]
+path = "github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify"
+
+[[module.imports]]
+path = "github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal"
+
+[[module.imports]]
+path = "github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5"
+
+# timeout
+timeout = 600000
+
+[security.funcs]
+getenv = [ "^HUGO_", "^WC_" ]
+
+[marketing.analytics]
+  google_tag_manager = "G-DPVMG9RM9Z"
