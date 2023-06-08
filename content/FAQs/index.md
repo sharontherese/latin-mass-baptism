@@ -25,7 +25,7 @@ If it is an emergency, the person should be baptized as quickly as possible. Inf
 
 # What are the differences between the new and the old rites of Baptism?
 
-The revisions to the rite of Baptism were extensive. Detailed, side-by-side comparisons are available on numerous Catholic websites, including Traditional Catholic Priest[^3] and CatholicScout[^4]. 
+The revisions to the rite of Baptism were extensive. Detailed, side-by-side comparisons are available on numerous Catholic websites, including Traditional Catholic Priest[^2] and CatholicScout[^3]. 
 
 # Who can be a godparent or sponsor? 
 
