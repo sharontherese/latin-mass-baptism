@@ -17,7 +17,7 @@ Maybe! Talk to your pastor.
 
 Per _Summorum Pontificum_: 
 
-> Art. 9, §1  The parish priest, after careful consideration, can also grant permission to use the older ritual in the administration of the sacraments of Baptism, Marriage, Penance and Anointing of the Sick, if advantageous for the good of souls.[^2]
+> Art. 9, §1  The parish priest, after careful consideration, can also grant permission to use the older ritual in the administration of the sacraments of Baptism, Marriage, Penance and Anointing of the Sick, if advantageous for the good of souls.[^1]
 
 # When should someone be baptized? 
 
