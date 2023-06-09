@@ -15,7 +15,9 @@ The Latin text below is directly from the _Rituale Romanum_[^1].
 
 The English text below is from Philip T. Weller's translation of the _Rituale Romanum_[^2], with some of the options and the commentary removed for clarity. 
 
-Other versions are available at the Blessings Directory[^3] and {{% staticref "files/Benedictio_Mulieris_Praegnantis_LatinEnglish.pdf" %}}my own version as a PDF{{% /staticref %}}
+These texts are also available at the Blessings Directory.[^3] 
+
+{{% staticref "files/Benedictio_Mulieris_Praegnantis_LatinEnglish.pdf" %}}My own version, with the Latin and English side-by-side, is here as a PDF.{{% /staticref %}}
 
 # Benedictio Mulieris Praegnantis in periculis partus	
 
