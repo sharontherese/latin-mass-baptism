@@ -27,7 +27,7 @@ Latin Mass
 : The normative Mass of the Roman Rite until the _Novus Ordo_ in 1969-1970. Also called the Extraordinary Form, Mass of St. Gregory the Great, the Tridentine Mass/Rite, or the old Mass. 
 
 Missale Romanum
-: The books of texts for the Catholic Mass.
+: The book of texts for the Catholic Mass.
 
 Novus Ordo
 : The normative Mass of the Roman Rite promulgated by Pope St. Paul VI in 1969-1970. Also called the Ordinary Form, the new Mass.
@@ -48,5 +48,5 @@ Solemn baptism
 
 [^1]: Fanning, William. "Baptism." In Catholic Encyclopedia. New York: Robert Appleton Company, 1907. https://www.newadvent.org/cathen/02258b.htm.
 
-[^2]:“Catholic Rites and Churches.” _EWTN_, 2007, https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm.
+[^2]:“Catholic Rites and Churches.” _EWTN_, 2007, https://web.archive.org/web/20190329085845/https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm
 
