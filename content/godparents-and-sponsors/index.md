@@ -52,7 +52,7 @@ This is a very solemn obligation, not one to be entered into lightly. Parents sh
 
 > 2\. They must be baptized Catholics who now practice the Faith. Obviously, persons who do not receive Penance and the Holy Eucharist as required by Church law, are not practicing Catholics. They can hardly safeguard your child’s religion when they jeopardize their own. 
 
-> 3\. They must be free to become your child’s spiritual guardians if necessary. For  this reason, priests or brothers or sisters in religious communities cannot be sponsors unless their superior gives them special permission. 
+> 3\. They must be free to become your child’s spiritual guardians if necessary. For  this reason, priests or brothers or sisters in religious communities cannot be sponsors unless their superior gives them special permission.[^5]
 
 
 # Sources
@@ -66,4 +66,3 @@ This is a very solemn obligation, not one to be entered into lightly. Parents sh
 [^4]: Thomas S.J., Fr. John L. "Godparents' Job Not Easy One." The Catholic Transcript, Volume LXI, Number 17, 28 August 1958, August 28 1958. https://thecatholicnewsarchive.org/?a=d&d=CTR19580828-01.2.100&srpos=2.
 
 [^5]: Springer, J., G.A. Kelly, E. Springer, and Robert Walsh. The Catholic Guide to Expectant Motherhood. Random House, 1961.
-
