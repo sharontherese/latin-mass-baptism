@@ -149,11 +149,11 @@ Ver. 12.  Countenance.  To whom I look up with confidence.  M. --- The just are 
 
 # Sources
 
-[^1]: Haydock, George L. **Haydock Catholic Bible Commentary**. Edward Dunigan and Brother: New York, 1859, https://www.ecatholic2000.com/haydock/title.shtml.
+[^1]: Haydock, George L. Haydock Catholic Bible Commentary. Edward Dunigan and Brother: New York, 1859, https://www.ecatholic2000.com/haydock/title.shtml
 
-[^2]: Aquinas, Thomas. **Catena Aurea: Commentary on the Four Gospels**. J.H. Parker, 1841, https://www.ecatholic2000.com/catena/untitled-111.shtml.
+[^2]: Aquinas, Thomas. Catena Aurea: Commentary on the Four Gospels. J.H. Parker, 1841, https://www.ecatholic2000.com/catena/untitled-111.shtml
 
-[^3]: **Sermonry**, https://sermonry.com/. Accessed 3 June 2019.
+[^3]: Sermonry, https://sermonry.com/. 
 
-[^4]: **“Psallam Domino: Masterpost: Links to Notes by Psalm Number.”** Psallam Domino (blog), January 16, 2018. https://psallamdomino.blogspot.com/2018/01/masterpost-links-to-notes-by-psalm.html.
+[^4]: “Psallam Domino: Masterpost: Links to Notes by Psalm Number.” Psallam Domino (blog), January 16, 2018. https://psallamdomino.blogspot.com/2018/01/masterpost-links-to-notes-by-psalm.html.
 
