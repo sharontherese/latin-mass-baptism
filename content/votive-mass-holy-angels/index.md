@@ -10,14 +10,13 @@ _Gozzoli, Benozzo. "Angels Worshipping (Left Side of the Chancel)." 1459-60._
 
 # About
 
-It has been a common practice to say the votive Mass of the Holy Angels for the loss of a child. The Mass is available in a variety of formatting online.
+It has been a common practice to say the votive Mass of the Holy Angels for the loss of a child. The Latin text below is from the _Missale Romanum_.[^1]
 
-* [As a webpage here](/votive-mass-holy-angels/)
-* {{% staticref "files/Mass_of_the_Holy_Angels_LatinEnglish.pdf" %}}My own version as a PDF here{{% /staticref %}}
-* Usus Antiquior[^2]
-* Vultus Christi[^3]
+The Mass is available in a variety of formatting online:
 
-The Latin text below is from the _Missale Romanum_.[^1]
+{{% staticref "files/Mass_of_the_Holy_Angels_LatinEnglish.pdf" %}}My own version as a PDF here{{% /staticref %}}
+
+Usus Antiquior[^2]
 
 # Missa de Angelis 
 
@@ -118,24 +117,24 @@ Continuation of the holy Gospel according to St. John, 1. 47-51.
 
 At that time: Jesus saw Nathanael coming to Him: and He saith of him: Behold an Israelite indeed, in whom there is no guile. Nathanael saith to Him: Whence knowest Thou me? Jesus answered, and said to him: Before that Philip called thee, when thou wast under the fig-tree, I saw thee. Nathanael answered Him, and said: Rabbi, Thou art the Son of God, Thou art the King of Israel. Jesus answered, and said to him: Because I said unto thee, I saw thee under the fig-tree, thou believest: greater things than these shalt thou see. And He said to him: Amen, amen I say to you, you shall see the heavens opened, and the Angels of God ascending and descending upon the Son of Man.
 
-## OFFERTORY 
+## Offertory 
 Apoc. 8. 3, 4
 
 An angel stood near the altar of the temple, having a golden censer in his hand: and there was given to him much incense, and the smoke of the perfumes ascended before God. (P.T. Alleluia.)
 
-## SECRET
+## Secret
 
 We offer unto Thee, O Lord, the Sacrifice of praise and humbly beseech Thee, that through the prayers of the Angels who plead for us, Thou wouldst graciously accept it and make it of avail to us for salvation. Through our Lord…
 
-## PREFACE
+## Preface
 
 It is truly meet and just, right and for our salvation, that we should at all times and in all places give thanks to Thee, holy Lord, Father almighty, eternal God, through Christ our Lord: through Whom Angels praise Thy Majesty, Dominations worship, Powers stand in awe. The Heavens and the hosts of heaven with blessed Seraphim unite, exult, and celebrate; a we entreat that Thou wouldst bid our voices too be heard with theirs, singing with lowly praise: — Sanctus.
 
-## COMMUNION
+## Communion
 
 Angels, Archangels, Thrones and Dominions, Principalities, and Powers, the Virtues of the heavens, Cherubim and Seraphim, bless ye the Lord for ever. (P.T. Alleluia.)
 
-## POSTCOMMUNION
+## Postcommunion
 
 We who are filled with the heavenly blessing, humbly beseech Thee, O Lord, that the Mysteries which we celebrate with this imperfect worship of ours may be profitable to us by the help of Thy holy Angels and Archangels. Through our Lord…
 
