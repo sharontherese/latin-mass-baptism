@@ -40,7 +40,7 @@ Patrinus respondet: Fidem.
 
 Sacerdos: Fides, quid tibi praestat? 
 
-Palrinus respondet: Vitam seternam. 
+Patrinus respondet: Vitam aeternam. 
 
 2\. Sacerdos: Si igitur vis ad vitam ingredi, serva mandata. Diliges Deminum Deum tuum ex toto corde luo, et ex tota anima tua, et ex tota mente tua, et proximuni tuum sicut teipsum.
  
@@ -100,15 +100,15 @@ R: Amen.
 
 14\. Postea interrogat baptizmandum nominatim dicens: Abrenuntias satanae? 
 
-Respondet Patrinus: Abreuntio. 
+Respondet Patrinus: Abrenuntio. 
 
 Sacerdos: Et omnibus operibus ejus? 
 
-R: Abreuntio.
+R: Abrenuntio.
 
 Sacerdos: Et omnibus pompis ejus? 
 
-R: Abreuntio.
+R: Abrenuntio.
 
 15\. Deinde Sacerdos intingit pollicem in oleo Catechumenorum, et infantem ungit in pectore, et inter scapulas in modum crucis, dicens: Ego te linio Oleo salutis in Christo Iesu Domino nostro, ut habeas vitam æternam.
 
